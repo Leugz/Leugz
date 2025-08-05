@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Miguel, a frontend developer from Brazil currently trying to become a fullstack.<br><br>- 🔭 I'm attending college and working as a freelancer.<br>- 📚 I'm currently expanding my knowledge in NextJS and planning to start learning NestJS.<br>- ⚡ In my free time, I work on personal projects and try to do code analysis in order to improve my code writing more and more.</p>
+<p align="left">I'm Miguel, a front-end developer from Brazil currently trying to become a full-stack.<br><br>- 🔭 I'm attending college and working as a freelancer.<br>- 📚 I'm currently expanding my knowledge in NextJS and planning to start learning NestJS.<br>- ⚡ In my free time, I work on personal projects and try to do code analysis in order to improve my code writing more and more.</p>
 
 ###
 
